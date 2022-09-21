@@ -1,4 +1,4 @@
-## Music Heals the Soul - HackOn Hackathon 2021
+## FEELZ
 <img src = "background.png"></img>
 #### Theme : Mental Wellness
 
@@ -30,25 +30,3 @@ FaceNet, VGG-Face, ArcFace and Dlib overperforms than OpenFace, DeepFace and Dee
 ### How to Run the application:
 Make sure you have all the dependencies mentioned in requirements.txt
 - Go to the terminal and run the command `streamlit run app.py`
-### Screenshots
-<img src = "screenshots/Screenshot1.png"/>
-<img src = "screenshots/Screenshot3.png">
-
-### Video Demo
-<a href = "https://www.youtube.com/watch?v=lJGU6MWG5u8">Click Here</a> **to watch the Video Demo!**
-
-### Next Steps
-
-- [ ] Add Movie Recommendation with IMDB
-- [ ] Deployment of the application
-- [ ] Speech Seniment Analysis
-- [ ] UI/UX Design Improvements
-- [ ] Improve Model Efficiency
-
-### Team Members
-1. Vedanth Baliga
-2. Aaditya Goel
-3. Prateek Rao 
-
-
-
